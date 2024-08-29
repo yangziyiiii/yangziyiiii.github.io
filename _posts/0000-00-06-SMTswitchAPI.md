@@ -40,5 +40,4 @@ author_profile: true
 - virtual Result check_sat_assuming(const TermVec & assumptions) = 0 在给定假设条件下检查可满足性
 - virtual void push(uint64_t num = 1) = 0 压栈当前上下文
 - virtual void pop(uint64_t num = 1) = 0 弹栈当前上下文
-- virtual uint64_t get_context_level() const = 0 获取当前上下文级别
-- 
+- virtual uint64_t get_context_level() const = 0 获取当前上下文级别  
