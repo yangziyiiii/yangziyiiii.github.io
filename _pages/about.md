@@ -33,6 +33,27 @@ My research interest is formal verification.
 - *2024.05*: &nbsp;🎉🎉 Outstanding Individual in Technological Innovation Award
 
 # 📝 Publications 
+<!-- ============== -->
+<h3>Ph.D. Work</h3>
+
+<p style="color:#666; margin-top:4px;">(To be updated)</p>
+
+<h3>Undergraduate Work</h3>
+
+- <span style="background-color: #87CEEB; color: white; padding: 3px 5px; border-radius: 3px; font-weight: bold;">AICAS'2023</span> <a href="https://ieeexplore.ieee.org/document/10168640" style="color: blue;"><span style="color: blue;">Three Challenges in ReRAM-Based Process-In-Memory for Neural Network</span></a>  
+
+  **Ziyi Yang**, Kehan Liu, Yiru Duan, Mingjia Fan, Qiyue Zhang and Zhou Jin
+
+  *IEEE 5th International Conference on Artificial Intelligence Circuits and Systems (AICAS)*, 2023.
+
+
+- <span style="background-color: #87CEEB; color: white; padding: 3px 5px; border-radius: 3px; font-weight: bold;">Electronics'2023</span> <a href="https://www.mdpi.com/2079-9292/12/8/1927" style="color: blue;">Accelerating DC Circuit Simulation through Feature Selection and LSTM-Based Time-Step Control</a>
+  
+  Zhou Jin, **Ziyi Yang**, Haojie Pei, Xiaru Zha, Yinuo Bai, Dan Niu, Zhenya Zhou, and Xiao Wu.
+
+  *MDPI Electronics*, 2023
+
+
 <!-- 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
