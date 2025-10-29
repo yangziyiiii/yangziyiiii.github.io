@@ -28,26 +28,31 @@ My research interest is formal verification.
 
 
 # 🔥 News
-- *2025.07*: &nbsp;🎉🎉 Second Place in EDA2 Xiakedao Competition
+- *2025.07*: &nbsp;🎉🎉 Second Prize in the EDA<sup>2</sup> Xiakedao Competition
+- *2025.07*: &nbsp;🎉🎉 Outstanding Bug-Fixing Team (bug award), EDA<sup>2</sup> Xiakedao Competition
+- *2024.09*: &nbsp;🎉🎉 Joined HKUST(GZ) as a Ph.D. student
 - *2024.06*: &nbsp;🎉🎉 Outstanding Graduate Award
 - *2024.05*: &nbsp;🎉🎉 Outstanding Individual in Technological Innovation Award
 
-# 📝 Publications 
+
+<span class='anchor' id='publications'></span>
+
+# 📝 Publications <span class="pub-note">(First-author and co-first-author papers are <span class="note-highlight">highlighted</span>)</span>
 <!-- ============== -->
 <h3>Ph.D. Work</h3>
-
+<!-- TODO -->
 <p style="color:#666; margin-top:4px;">(To be updated)</p>
 
 <h3>Undergraduate Work</h3>
 
-- <span style="background-color: #87CEEB; color: white; padding: 3px 5px; border-radius: 3px; font-weight: bold;">AICAS'2023</span> <a href="https://ieeexplore.ieee.org/document/10168640" style="color: blue;"><span style="color: blue;">Three Challenges in ReRAM-Based Process-In-Memory for Neural Network</span></a>  
+- <span style="background-color: #87CEEB; color: white; padding: 3px 5px; border-radius: 3px; font-weight: bold;">AICAS'2023</span> <a href="https://ieeexplore.ieee.org/document/10168640" style="color: black;"> Three Challenges in ReRAM-Based Process-In-Memory for Neural Network</a>  
 
-  **Ziyi Yang**, Kehan Liu, Yiru Duan, Mingjia Fan, Qiyue Zhang and Zhou Jin
+  <span class="author-highlight">Ziyi Yang</span>, Kehan Liu, Yiru Duan, Mingjia Fan, Qiyue Zhang and Zhou Jin
 
   *IEEE 5th International Conference on Artificial Intelligence Circuits and Systems (AICAS)*, 2023.
 
 
-- <span style="background-color: #87CEEB; color: white; padding: 3px 5px; border-radius: 3px; font-weight: bold;">Electronics'2023</span> <a href="https://www.mdpi.com/2079-9292/12/8/1927" style="color: blue;">Accelerating DC Circuit Simulation through Feature Selection and LSTM-Based Time-Step Control</a>
+- <span style="background-color: #87CEEB; color: white; padding: 3px 5px; border-radius: 3px; font-weight: bold;">Electronics'2023</span> <a href="https://www.mdpi.com/2079-9292/12/8/1927" style="color: black;">Accelerating DC Circuit Simulation through Feature Selection and LSTM-Based Time-Step Control</a>
   
   Zhou Jin, **Ziyi Yang**, Haojie Pei, Xiaru Zha, Yinuo Bai, Dan Niu, Zhenya Zhou, and Xiao Wu.
 
@@ -70,6 +75,8 @@ My research interest is formal verification.
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
+- *2025.07*: &nbsp;🎉🎉 Second Prize in the EDA<sup>2</sup> Xiakedao Competition
+- *2025.07*: &nbsp;🎉🎉 Outstanding Bug-Fixing Team (bug award), EDA<sup>2</sup> Xiakedao Competition
 - *2024.06*: &nbsp;🎉🎉 Outstanding Graduate Award
 - *2024.05*: &nbsp;🎉🎉 Outstanding Individual in Technological Innovation Award
 
@@ -83,3 +90,12 @@ My research interest is formal verification.
 
 <!-- # 💻 Internships -->
 <!-- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+
+
+# 👥 Visitors
+
+<div class="visitors-wrap">
+  <script type="text/javascript" id="mapmyvisitors"
+    src="//mapmyvisitors.com/map.js?d=CTjA-Fa5mDrjUOFqXjpRF4RllLO4gzZjsYibWt1nJqk&cl=ffffff&w=a">
+  </script>
+</div>

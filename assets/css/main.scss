@@ -107,3 +107,35 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+.visitors-wrap {
+    max-width: 260px;
+    margin: 0;
+}
+
+.visitors-wrap iframe,
+.visitors-wrap > div {
+    width: 100% !important;
+    height: auto !important;
+}
+
+.pub-note {
+    display: inline-block;
+    margin-left: .5em;
+    font-size: .85em;
+    color: #666;
+}
+
+.note-highlight {
+    background-color: #fff3cd;
+    border-radius: 3px;
+    padding: 0 .25em;
+}
+
+.author-highlight {
+    display: inline-block;
+    padding: 0 .35em;
+    border-radius: 3px;
+    background-color: #fff7db;
+    font-weight: 600;
+}
