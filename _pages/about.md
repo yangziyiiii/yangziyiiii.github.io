@@ -28,8 +28,9 @@ My research interest is formal verification.
 
 
 # 🔥 News
+- *2025.11*: &nbsp;🎉🎉 One paper is accepted by DATE 2026
 - *2025.07*: &nbsp;🎉🎉 Second Prize in the EDA<sup>2</sup> Xiakedao Competition
-- *2025.07*: &nbsp;🎉🎉 Outstanding Bug-Fixing Team (bug award), EDA<sup>2</sup> Xiakedao Competition
+- *2025.07*: &nbsp;🎉🎉 Outstanding Bug-Fixing Team, EDA<sup>2</sup> Xiakedao Competition
 - *2024.09*: &nbsp;🎉🎉 Joined HKUST(GZ) as a Ph.D. student
 - *2024.06*: &nbsp;🎉🎉 Outstanding Graduate Award
 - *2024.05*: &nbsp;🎉🎉 Outstanding Individual in Technological Innovation Award
@@ -40,8 +41,12 @@ My research interest is formal verification.
 # 📝 Publications <span class="pub-note">(First-author and co-first-author papers are <span class="note-highlight">highlighted</span>)</span>
 <!-- ============== -->
 <h3>Ph.D. Work</h3>
-<!-- TODO -->
-<p style="color:#666; margin-top:4px;">(To be updated)</p>
+
+- <span style="background-color: #87CEEB; color: white; padding: 3px 5px; border-radius: 3px; font-weight: bold;">DATE'2026</span> <a href="https://ieeexplore.ieee.org/document/10168640" style="color: black;"> FORWORD: Accelerating Formal Datapath Verification via Word-Level Sweeping</a>  
+
+  <span class="author-highlight">Ziyi Yang</span>, Guangyu Hu, Xiaofeng Zhou, Mingkai Miao, Changyuan Yu, Wei Zhang and Hongce Zhang
+
+  *Design, Automation and Test in Europe Conference (DATE)*, 2026.
 
 <h3>Undergraduate Work</h3>
 
@@ -78,10 +83,10 @@ My research interest is formal verification.
 - *2025.07*: &nbsp;🎉🎉 Second Prize in the EDA<sup>2</sup> Xiakedao Competition
 - *2025.07*: &nbsp;🎉🎉 Outstanding Bug-Fixing Team (bug award), EDA<sup>2</sup> Xiakedao Competition
 - *2024.06*: &nbsp;🎉🎉 Outstanding Graduate Award
-- *2024.05*: &nbsp;🎉🎉 Outstanding Individual in Technological Innovation Award
+- *2024.05*: &nbsp;🎉🎉 Outstanding Individual in Undergraduate Technological Innovation Award
 
 # 📖 Educations
-- *2024.06 - now*, Ph.D student in Hong Kong University of Science and Technology(Guangzhou).
+- *2024.06 - now*, Ph.D. student in Hong Kong University of Science and Technology(Guangzhou).
 - *2020.09 - 2024.06*, B.Eng. in China University of Petroleum(Beijing).
 
 <!-- # 💬 Invited Talks -->
