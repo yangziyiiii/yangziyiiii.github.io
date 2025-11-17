@@ -32,8 +32,6 @@ My research interest is formal verification.
 - *2025.07*: &nbsp;🎉🎉 Second Prize in the EDA<sup>2</sup> Xiakedao Competition
 - *2025.07*: &nbsp;🎉🎉 Outstanding Bug-Fixing Team, EDA<sup>2</sup> Xiakedao Competition
 - *2024.09*: &nbsp;🎉🎉 Joined HKUST(GZ) as a Ph.D. student
-- *2024.06*: &nbsp;🎉🎉 Outstanding Graduate Award
-- *2024.05*: &nbsp;🎉🎉 Outstanding Individual in Technological Innovation Award
 
 
 <span class='anchor' id='publications'></span>
@@ -81,7 +79,7 @@ My research interest is formal verification.
 
 # 🎖 Honors and Awards
 - *2025.07*: &nbsp;🎉🎉 Second Prize in the EDA<sup>2</sup> Xiakedao Competition
-- *2025.07*: &nbsp;🎉🎉 Outstanding Bug-Fixing Team (bug award), EDA<sup>2</sup> Xiakedao Competition
+- *2025.07*: &nbsp;🎉🎉 Outstanding Bug-Fixing Team, EDA<sup>2</sup> Xiakedao Competition
 - *2024.06*: &nbsp;🎉🎉 Outstanding Graduate Award
 - *2024.05*: &nbsp;🎉🎉 Outstanding Individual in Undergraduate Technological Innovation Award
 
