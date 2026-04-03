@@ -40,7 +40,7 @@ My research interest is formal verification.
 <!-- ============== -->
 <h3>Ph.D. Work</h3>
 
-- <span style="background-color: #87CEEB; color: white; padding: 3px 5px; border-radius: 3px; font-weight: bold;">DATE'2026</span> <a href="https://ieeexplore.ieee.org/document/10168640" style="color: black;"> FORWORD: Accelerating Formal Datapath Verification via Word-Level Sweeping</a>  
+- <span style="background-color: #87CEEB; color: white; padding: 3px 5px; border-radius: 3px; font-weight: bold;">DATE'2026</span> <a href="https://arxiv.org/abs/2507.02008" style="color: black;"> FORWORD: Accelerating Formal Datapath Verification via Word-Level Sweeping</a>  
 
   <span class="author-highlight">Ziyi Yang</span>, Guangyu Hu, Xiaofeng Zhou, Mingkai Miao, Changyuan Yu, Wei Zhang and Hongce Zhang
 
