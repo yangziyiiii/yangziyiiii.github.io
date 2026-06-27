@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am currently a Ph.D. student at the Microelectronics Thrust, Function Hub of the 
+Hi! My name is Ziyi Yang (杨子毅). I am currently a Ph.D. student at the Microelectronics Thrust, Function Hub of the 
 <strong><a href="https://www.hkust-gz.edu.cn/" target="_blank">HKUST(GZ)</a></strong>, 
 advised by <strong><a href="https://hongcezh.people.ust.hk/" target="_blank">Prof. Hongce ZHANG</a></strong>.
 Prior to this, I received my B.Eng in the Department of Electronics and Information Engineering from the 
@@ -132,14 +132,45 @@ My research interest is formal verification.
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
-- *2025.07*: &nbsp;🎉🎉 Second Prize in the EDA<sup>2</sup> Xiakedao Competition
-- *2025.07*: &nbsp;🎉🎉 Outstanding Bug-Fixing Team, EDA<sup>2</sup> Xiakedao Competition
-- *2024.06*: &nbsp;🎉🎉 Outstanding Graduate Award
-- *2024.05*: &nbsp;🎉🎉 Outstanding Individual in Undergraduate Technological Innovation Award
+<div class="timeline-list">
+  <div class="timeline-item">
+    <span class="timeline-date">2025.07</span>
+    <span class="timeline-text">Second Prize in the EDA<sup>2</sup> Xiakedao Competition</span>
+  </div>
+  <div class="timeline-item">
+    <span class="timeline-date">2025.07</span>
+    <span class="timeline-text">Outstanding Bug-Fixing Team, EDA<sup>2</sup> Xiakedao Competition</span>
+  </div>
+  <div class="timeline-item">
+    <span class="timeline-date">2024.06</span>
+    <span class="timeline-text">Outstanding Graduate Award</span>
+  </div>
+  <div class="timeline-item">
+    <span class="timeline-date">2024.05</span>
+    <span class="timeline-text">Outstanding Individual in Undergraduate Technological Innovation Award</span>
+  </div>
+</div>
 
-# 📖 Educations
-- *2024.06 - now*, Ph.D. student in Hong Kong University of Science and Technology(Guangzhou).
-- *2020.09 - 2024.06*, B.Eng. in China University of Petroleum(Beijing).
+# 📖 Education
+<div class="education-list">
+  <article class="education-card">
+    <div class="education-content">
+      <div class="education-period">2024.06 - now</div>
+      <div class="education-degree">Ph.D. Student</div>
+      <div class="education-school">Hong Kong University of Science and Technology (Guangzhou)</div>
+    </div>
+    <img class="education-logo education-logo--seal" src="/images/logos/hkust-gz-logo.png" alt="HKUST(GZ) logo">
+  </article>
+
+  <article class="education-card">
+    <div class="education-content">
+      <div class="education-period">2020.09 - 2024.06</div>
+      <div class="education-degree">B.Eng.</div>
+      <div class="education-school">China University of Petroleum (Beijing)</div>
+    </div>
+    <img class="education-logo education-logo--seal" src="/images/logos/cupb-logo.png" alt="China University of Petroleum (Beijing) logo">
+  </article>
+</div>
 
 <!-- # 💬 Invited Talks -->
 <!-- - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
