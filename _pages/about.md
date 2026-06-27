@@ -36,28 +36,33 @@ My research interest is formal verification.
 
 <span class='anchor' id='publications'></span>
 
-# 📝 Publications <span class="pub-note">(First-author and co-first-author papers are <span class="note-highlight">highlighted</span>)</span>
+# 📝 Publications
 <!-- ============== -->
-<h3>Ph.D. Work</h3>
+<h4>First-Author Papers</h4>
 
 - <span style="background-color: #87CEEB; color: white; padding: 3px 5px; border-radius: 3px; font-weight: bold;">DATE'2026</span> <a href="https://arxiv.org/abs/2507.02008" style="color: black;"> FORWORD: Accelerating Formal Datapath Verification via Word-Level Sweeping</a>  
 
-  <span class="author-highlight">Ziyi Yang</span>, Guangyu Hu, Xiaofeng Zhou, Mingkai Miao, Changyuan Yu, Wei Zhang and Hongce Zhang
+  <strong><span class="author-highlight">Ziyi Yang</span></strong>, Guangyu Hu, Xiaofeng Zhou, Mingkai Miao, Changyuan Yu, Wei Zhang and Hongce Zhang
 
   *Design, Automation and Test in Europe Conference (DATE)*, 2026.
 
-<h3>Undergraduate Work</h3>
-
 - <span style="background-color: #87CEEB; color: white; padding: 3px 5px; border-radius: 3px; font-weight: bold;">AICAS'2023</span> <a href="https://ieeexplore.ieee.org/document/10168640" style="color: black;"> Three Challenges in ReRAM-Based Process-In-Memory for Neural Network</a>  
 
-  <span class="author-highlight">Ziyi Yang</span>, Kehan Liu, Yiru Duan, Mingjia Fan, Qiyue Zhang and Zhou Jin
+  <strong><span class="author-highlight">Ziyi Yang</span></strong>, Kehan Liu, Yiru Duan, Mingjia Fan, Qiyue Zhang and Zhou Jin
 
   *IEEE 5th International Conference on Artificial Intelligence Circuits and Systems (AICAS)*, 2023.
 
+<h4>Collaborative Papers</h4>
+
+- <span style="background-color: #87CEEB; color: white; padding: 3px 5px; border-radius: 3px; font-weight: bold;">IJCAI'2026</span> <a href="https://arxiv.org/abs/2604.03232" style="color: black;"> IC3-Evolve: Proof-/Witness-Gated Offline LLM-Driven Heuristic Evolution for IC3 Hardware Model Checking</a>  
+
+  Mingkai Miao, Guangyu Hu, <strong><span class="author-highlight">Ziyi Yang</span></strong> and Hongce Zhang
+
+  *International Joint Conference on Artificial Intelligence (IJCAI)*, 2026.
 
 - <span style="background-color: #87CEEB; color: white; padding: 3px 5px; border-radius: 3px; font-weight: bold;">Electronics'2023</span> <a href="https://www.mdpi.com/2079-9292/12/8/1927" style="color: black;">Accelerating DC Circuit Simulation through Feature Selection and LSTM-Based Time-Step Control</a>
   
-  Zhou Jin, **Ziyi Yang**, Haojie Pei, Xiaru Zha, Yinuo Bai, Dan Niu, Zhenya Zhou, and Xiao Wu.
+  Zhou Jin, <strong><span class="author-highlight">Ziyi Yang</span></strong>, Haojie Pei, Xiaru Zha, Yinuo Bai, Dan Niu, Zhenya Zhou, and Xiao Wu.
 
   *MDPI Electronics*, 2023
 
