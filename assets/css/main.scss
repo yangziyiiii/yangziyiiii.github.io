@@ -139,3 +139,155 @@ h1:before, .anchor:before {
     background-color: #fff7db;
     font-weight: 600;
 }
+
+.research-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: .45rem;
+    margin: 1rem 0 1.6rem;
+
+    span {
+        display: inline-flex;
+        align-items: center;
+        min-height: 1.65rem;
+        padding: .18rem .55rem;
+        border: 1px solid #d9e3ee;
+        border-radius: 6px;
+        background: #f7fbff;
+        color: #32506d;
+        font-size: .78rem;
+        font-weight: 600;
+        line-height: 1.2;
+    }
+}
+
+.news-list {
+    margin: .8rem 0 2rem;
+    border-top: 1px solid #e8edf2;
+}
+
+.news-item {
+    display: grid;
+    grid-template-columns: 5.5rem minmax(0, 1fr);
+    gap: 1rem;
+    padding: .72rem 0;
+    border-bottom: 1px solid #e8edf2;
+    align-items: baseline;
+}
+
+.news-date {
+    color: #4b6f91;
+    font-size: .86rem;
+    font-weight: 700;
+}
+
+.news-text {
+    color: #30363d;
+    line-height: 1.45;
+}
+
+.pub-group-title {
+    margin: 1.45rem 0 .75rem;
+    color: #25384d;
+    font-size: 1rem;
+    font-weight: 700;
+}
+
+.publication-list {
+    display: grid;
+    gap: .85rem;
+    margin-bottom: 1.55rem;
+}
+
+.publication-card {
+    padding: .95rem 1rem;
+    border: 1px solid #e1e8ef;
+    border-left: 4px solid #5c9fd6;
+    border-radius: 8px;
+    background: #fff;
+    box-shadow: 0 3px 12px rgba(39, 61, 82, .06);
+}
+
+.publication-meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: .45rem .6rem;
+    align-items: center;
+    margin-bottom: .45rem;
+}
+
+.venue-tag {
+    display: inline-flex;
+    align-items: center;
+    min-height: 1.55rem;
+    padding: .16rem .5rem;
+    border-radius: 5px;
+    color: #fff;
+    font-size: .74rem;
+    font-weight: 700;
+    line-height: 1.15;
+}
+
+.venue-conference {
+    background: #3f7fb4;
+}
+
+.venue-journal {
+    background: #4f8c68;
+}
+
+.publication-link {
+    display: inline-flex;
+    align-items: center;
+    min-height: 1.55rem;
+    padding: .14rem .5rem;
+    border: 1px solid #cfdce8;
+    border-radius: 5px;
+    background: #f8fbfe;
+    color: #38546d;
+    font-size: .74rem;
+    font-weight: 700;
+    text-decoration: none;
+    line-height: 1.15;
+
+    &:hover {
+        background: #eef6fc;
+        border-color: #9fc2df;
+        color: #1c5d99;
+        text-decoration: none;
+    }
+}
+
+.publication-title {
+    display: block;
+    color: #1f2d3d;
+    font-size: 1rem;
+    font-weight: 700;
+    line-height: 1.35;
+}
+
+.publication-authors {
+    margin-top: .5rem;
+    color: #3a424a;
+    font-size: .92rem;
+    line-height: 1.45;
+}
+
+.publication-venue {
+    margin-top: .35rem;
+    color: #687584;
+    font-size: .86rem;
+    font-style: italic;
+    line-height: 1.4;
+}
+
+@include breakpoint(max-width $small) {
+    .news-item {
+        grid-template-columns: 1fr;
+        gap: .2rem;
+    }
+
+    .publication-card {
+        padding: .85rem;
+    }
+}

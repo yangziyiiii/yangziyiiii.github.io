@@ -26,45 +26,94 @@ China University of Petroleum, Beijing, under the supervision of
 My research interest is formal verification. 
 <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
+<div class="research-tags">
+  <span>Hardware Verification</span>
+  <span>Formal Verification</span>
+  <span>Electronic Design Automation</span>
+</div>
+
 
 # 🔥 News
-- *2025.11*: &nbsp;🎉🎉 One paper is accepted by DATE 2026
-- *2025.07*: &nbsp;🎉🎉 Second Prize in the EDA<sup>2</sup> Xiakedao Competition
-- *2025.07*: &nbsp;🎉🎉 Outstanding Bug-Fixing Team, EDA<sup>2</sup> Xiakedao Competition
-- *2024.09*: &nbsp;🎉🎉 Joined HKUST(GZ) as a Ph.D. student
+<div class="news-list">
+  <div class="news-item">
+    <span class="news-date">2025.11</span>
+    <span class="news-text">One paper accepted by DATE 2026</span>
+  </div>
+  <div class="news-item">
+    <span class="news-date">2025.07</span>
+    <span class="news-text">Second Prize in the EDA<sup>2</sup> Xiakedao Competition</span>
+  </div>
+  <div class="news-item">
+    <span class="news-date">2025.07</span>
+    <span class="news-text">Outstanding Bug-Fixing Team, EDA<sup>2</sup> Xiakedao Competition</span>
+  </div>
+  <div class="news-item">
+    <span class="news-date">2024.09</span>
+    <span class="news-text">Joined HKUST(GZ) as a Ph.D. student</span>
+  </div>
+</div>
 
 
 <span class='anchor' id='publications'></span>
 
 # 📝 Publications
 <!-- ============== -->
-<h4>First-Author Papers</h4>
+<h4 class="pub-group-title">First-Author Papers</h4>
 
-- <span style="background-color: #87CEEB; color: white; padding: 3px 5px; border-radius: 3px; font-weight: bold;">DATE'2026</span> <a href="https://arxiv.org/abs/2507.02008" style="color: black;"> FORWORD: Accelerating Formal Datapath Verification via Word-Level Sweeping</a>  
+<div class="publication-list">
+  <article class="publication-card">
+    <div class="publication-meta">
+      <span class="venue-tag venue-conference">DATE 2026</span>
+      <a class="publication-link" href="https://arxiv.org/abs/2507.02008">Paper</a>
+      <a class="publication-link" href="https://github.com/yangziyiiii/FORWORD">Code</a>
+    </div>
+    <div class="publication-title">FORWORD: Accelerating Formal Datapath Verification via Word-Level Sweeping</div>
+    <div class="publication-authors">
+      <strong><span class="author-highlight">Ziyi Yang</span></strong>, Guangyu Hu, Xiaofeng Zhou, Mingkai Miao, Changyuan Yu, Wei Zhang and Hongce Zhang
+    </div>
+    <div class="publication-venue">Design, Automation and Test in Europe Conference (DATE), 2026.</div>
+  </article>
 
-  <strong><span class="author-highlight">Ziyi Yang</span></strong>, Guangyu Hu, Xiaofeng Zhou, Mingkai Miao, Changyuan Yu, Wei Zhang and Hongce Zhang
+  <article class="publication-card">
+    <div class="publication-meta">
+      <span class="venue-tag venue-conference">AICAS 2023</span>
+      <a class="publication-link" href="https://ieeexplore.ieee.org/document/10168640">Paper</a>
+    </div>
+    <div class="publication-title">Three Challenges in ReRAM-Based Process-In-Memory for Neural Network</div>
+    <div class="publication-authors">
+      <strong><span class="author-highlight">Ziyi Yang</span></strong>, Kehan Liu, Yiru Duan, Mingjia Fan, Qiyue Zhang and Zhou Jin
+    </div>
+    <div class="publication-venue">IEEE 5th International Conference on Artificial Intelligence Circuits and Systems (AICAS), 2023.</div>
+  </article>
+</div>
 
-  *Design, Automation and Test in Europe Conference (DATE)*, 2026.
+<h4 class="pub-group-title">Collaborative Papers</h4>
 
-- <span style="background-color: #87CEEB; color: white; padding: 3px 5px; border-radius: 3px; font-weight: bold;">AICAS'2023</span> <a href="https://ieeexplore.ieee.org/document/10168640" style="color: black;"> Three Challenges in ReRAM-Based Process-In-Memory for Neural Network</a>  
+<div class="publication-list">
+  <article class="publication-card">
+    <div class="publication-meta">
+      <span class="venue-tag venue-conference">IJCAI 2026</span>
+      <a class="publication-link" href="https://arxiv.org/abs/2604.03232">Paper</a>
+    </div>
+    <div class="publication-title">IC3-Evolve: Proof-/Witness-Gated Offline LLM-Driven Heuristic Evolution for IC3 Hardware Model Checking</div>
+    <div class="publication-authors">
+      Mingkai Miao, Guangyu Hu, <strong><span class="author-highlight">Ziyi Yang</span></strong> and Hongce Zhang
+    </div>
+    <div class="publication-venue">International Joint Conference on Artificial Intelligence (IJCAI), 2026.</div>
+  </article>
 
-  <strong><span class="author-highlight">Ziyi Yang</span></strong>, Kehan Liu, Yiru Duan, Mingjia Fan, Qiyue Zhang and Zhou Jin
-
-  *IEEE 5th International Conference on Artificial Intelligence Circuits and Systems (AICAS)*, 2023.
-
-<h4>Collaborative Papers</h4>
-
-- <span style="background-color: #87CEEB; color: white; padding: 3px 5px; border-radius: 3px; font-weight: bold;">IJCAI'2026</span> <a href="https://arxiv.org/abs/2604.03232" style="color: black;"> IC3-Evolve: Proof-/Witness-Gated Offline LLM-Driven Heuristic Evolution for IC3 Hardware Model Checking</a>  
-
-  Mingkai Miao, Guangyu Hu, <strong><span class="author-highlight">Ziyi Yang</span></strong> and Hongce Zhang
-
-  *International Joint Conference on Artificial Intelligence (IJCAI)*, 2026.
-
-- <span style="background-color: #87CEEB; color: white; padding: 3px 5px; border-radius: 3px; font-weight: bold;">Electronics'2023</span> <a href="https://www.mdpi.com/2079-9292/12/8/1927" style="color: black;">Accelerating DC Circuit Simulation through Feature Selection and LSTM-Based Time-Step Control</a>
-  
-  Zhou Jin, <strong><span class="author-highlight">Ziyi Yang</span></strong>, Haojie Pei, Xiaru Zha, Yinuo Bai, Dan Niu, Zhenya Zhou, and Xiao Wu.
-
-  *MDPI Electronics*, 2023
+  <article class="publication-card">
+    <div class="publication-meta">
+      <span class="venue-tag venue-journal">Electronics 2023</span>
+      <a class="publication-link" href="https://www.mdpi.com/2079-9292/12/8/1927">Paper</a>
+    </div>
+    <div class="publication-title">Accelerating DC Circuit Simulation through Feature Selection and LSTM-Based Time-Step Control</div>
+    <div class="publication-authors">
+      Zhou Jin, <strong><span class="author-highlight">Ziyi Yang</span></strong>, Haojie Pei, Xiaru Zha, Yinuo Bai, Dan Niu, Zhenya Zhou, and Xiao Wu.
+    </div>
+    <div class="publication-venue">MDPI Electronics, 2023.</div>
+  </article>
+</div>
 
 
 <!-- 
